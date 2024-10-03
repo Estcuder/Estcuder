@@ -7,7 +7,7 @@ Ingeniero Industrial con experiencia en el sector financiero y especializado en 
 
 
 ## 🛠 Skills
-
+[![My Skills](https://skillicons.dev/icons?i=postman,selenium,py,mysql,figma)](https://skillicons.dev)
 ### Hard Skills 
 - Creación y ejecución de casos de prueba
 - Evidencia de Bugs
